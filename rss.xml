@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Diego Antinolo | Sotheby's Realty]]></title>
         <description><![CDATA[Diego Antinolo | Sotheby's Realty]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/diego-antinolo-or-sotheby-s-realty/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 31 May 2016 21:09:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 31 May 2016 21:24:02 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/diego-antinolo-or-sotheby-s-realty/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Diego Antinolo]]></title>
             <description><![CDATA[<article><h1>Diego Antinolo</h1><p>Real Estate Professional </p></article>]]></description>
-            <link>undefineddiego-antinolo/index.html</link>
+            <link>https://thegrid.ai/diego-antinolo-or-sotheby-s-realty/diego-antinolo/index.html</link>
             <guid isPermaLink="false">52a1c0c6-32db-4184-81a6-9e7e7b018e87</guid>
-            <pubDate>Tue, 31 May 2016 21:09:27 GMT</pubDate>
+            <pubDate>Tue, 31 May 2016 21:24:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
