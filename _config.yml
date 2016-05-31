@@ -1,6 +1,6 @@
 name: "Diego Antinolo | Sotheby's Realty"
 favicon: null
-layout_spectrum: 0.3323497758246958
+layout_spectrum: 0.08806
 typography_spectrum: 0.16975356894545257
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.4814532462041825
-  lightness: 0.5056812844704837
-  saturation: 0.47559341439045966
-  rhythmicContrast: 0.9535705333109945
+  brandStrength: 0.25
+  lightness: 0.625
+  saturation: 0.6875
+  rhythmicContrast: 0.75
 purpose: []
